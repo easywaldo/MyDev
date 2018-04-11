@@ -1,0 +1,8 @@
+C:\Users\aceti\source\repos\EntityframeworkTest\MyDataLib\bin\Debug\netcoreapp2.0\MyDataLib.deps.json
+C:\Users\aceti\source\repos\EntityframeworkTest\MyDataLib\bin\Debug\netcoreapp2.0\MyDataLib.dll
+C:\Users\aceti\source\repos\EntityframeworkTest\MyDataLib\bin\Debug\netcoreapp2.0\MyDataLib.pdb
+C:\Users\aceti\source\repos\EntityframeworkTest\MyDataLib\obj\Debug\netcoreapp2.0\MyDataLib.csproj.CoreCompileInputs.cache
+C:\Users\aceti\source\repos\EntityframeworkTest\MyDataLib\obj\Debug\netcoreapp2.0\MyDataLib.AssemblyInfoInputs.cache
+C:\Users\aceti\source\repos\EntityframeworkTest\MyDataLib\obj\Debug\netcoreapp2.0\MyDataLib.AssemblyInfo.cs
+C:\Users\aceti\source\repos\EntityframeworkTest\MyDataLib\obj\Debug\netcoreapp2.0\MyDataLib.dll
+C:\Users\aceti\source\repos\EntityframeworkTest\MyDataLib\obj\Debug\netcoreapp2.0\MyDataLib.pdb
