@@ -3437,11 +3437,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aceti\\source\\repos\\EntityframeworkTest\\EntityframeworkTest\\EntityframeworkTest.csproj",
+      "projectUniqueName": "C:\\Users\\aceti\\source\\mydev\\EntityframeworkTest\\EntityframeworkTest\\EntityframeworkTest.csproj",
       "projectName": "EntityframeworkTest",
-      "projectPath": "C:\\Users\\aceti\\source\\repos\\EntityframeworkTest\\EntityframeworkTest\\EntityframeworkTest.csproj",
+      "projectPath": "C:\\Users\\aceti\\source\\mydev\\EntityframeworkTest\\EntityframeworkTest\\EntityframeworkTest.csproj",
       "packagesPath": "C:\\Users\\aceti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aceti\\source\\repos\\EntityframeworkTest\\EntityframeworkTest\\obj\\",
+      "outputPath": "C:\\Users\\aceti\\source\\mydev\\EntityframeworkTest\\EntityframeworkTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 
 namespace EntityframeworkTest.Model
@@ -14,6 +15,7 @@ namespace EntityframeworkTest.Model
         public string UserName { get; set; }
         public string BlogUrl { get; set; }
 
+        [JsonIgnore]
         public ICollection<BlogArticle> BlogArticle { get; set; }
     }
 }

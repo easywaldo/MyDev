@@ -35,6 +35,11 @@ namespace EntityframeworkTest.Model
                     .HasMaxLength(50)
                     .IsUnicode(false);
 
+                entity.HasOne(d => d.ParentNoNavigation)
+                    .WithMany(p => p.InverseParentNoNavigation)
+                    .HasForeignKey(d => d.ParentNo)
+                    .HasConstraintName("FK_BlogArticle_ToParentArticle");
+
                 entity.HasOne(d => d.WriteUserNavigation)
                     .WithMany(p => p.BlogArticle)
                     .HasForeignKey(d => d.WriteUser)

@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aceti\\source\\repos\\EntityframeworkTest\\EFCoreScaffoldExample\\EFCoreScaffoldExample.csproj",
+      "projectUniqueName": "C:\\Users\\aceti\\source\\mydev\\EntityframeworkTest\\EFCoreScaffoldExample\\EFCoreScaffoldExample.csproj",
       "projectName": "EFCoreScaffoldExample",
-      "projectPath": "C:\\Users\\aceti\\source\\repos\\EntityframeworkTest\\EFCoreScaffoldExample\\EFCoreScaffoldExample.csproj",
+      "projectPath": "C:\\Users\\aceti\\source\\mydev\\EntityframeworkTest\\EFCoreScaffoldExample\\EFCoreScaffoldExample.csproj",
       "packagesPath": "C:\\Users\\aceti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aceti\\source\\repos\\EntityframeworkTest\\EFCoreScaffoldExample\\obj\\",
+      "outputPath": "C:\\Users\\aceti\\source\\mydev\\EntityframeworkTest\\EFCoreScaffoldExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

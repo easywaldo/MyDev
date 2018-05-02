@@ -8,3 +8,14 @@ c:\users\aceti\source\repos\EntityframeworkTest\EntityframeworkTest\obj\Debug\ne
 c:\users\aceti\source\repos\EntityframeworkTest\EntityframeworkTest\bin\Debug\netcoreapp2.0\EntityframeworkTest.pdb
 c:\users\aceti\source\repos\EntityframeworkTest\EntityframeworkTest\obj\Debug\netcoreapp2.0\EntityframeworkTest.dll
 c:\users\aceti\source\repos\EntityframeworkTest\EntityframeworkTest\obj\Debug\netcoreapp2.0\EntityframeworkTest.pdb
+C:\Users\aceti\source\mydev\EntityframeworkTest\EntityframeworkTest\bin\Debug\netcoreapp2.0\EntityframeworkTest.deps.json
+C:\Users\aceti\source\mydev\EntityframeworkTest\EntityframeworkTest\bin\Debug\netcoreapp2.0\EntityframeworkTest.runtimeconfig.json
+C:\Users\aceti\source\mydev\EntityframeworkTest\EntityframeworkTest\bin\Debug\netcoreapp2.0\EntityframeworkTest.runtimeconfig.dev.json
+C:\Users\aceti\source\mydev\EntityframeworkTest\EntityframeworkTest\bin\Debug\netcoreapp2.0\EntityframeworkTest.dll
+C:\Users\aceti\source\mydev\EntityframeworkTest\EntityframeworkTest\bin\Debug\netcoreapp2.0\EntityframeworkTest.pdb
+C:\Users\aceti\source\mydev\EntityframeworkTest\EntityframeworkTest\obj\Debug\netcoreapp2.0\EntityframeworkTest.csproj.CoreCompileInputs.cache
+C:\Users\aceti\source\mydev\EntityframeworkTest\EntityframeworkTest\obj\Debug\netcoreapp2.0\EntityframeworkTest.AssemblyInfoInputs.cache
+C:\Users\aceti\source\mydev\EntityframeworkTest\EntityframeworkTest\obj\Debug\netcoreapp2.0\EntityframeworkTest.AssemblyInfo.cs
+C:\Users\aceti\source\mydev\EntityframeworkTest\EntityframeworkTest\obj\Debug\netcoreapp2.0\EntityframeworkTest.dll
+C:\Users\aceti\source\mydev\EntityframeworkTest\EntityframeworkTest\obj\Debug\netcoreapp2.0\EntityframeworkTest.pdb
+C:\Users\aceti\source\mydev\EntityframeworkTest\EntityframeworkTest\obj\Debug\netcoreapp2.0\EntityframeworkTest.csprojResolveAssemblyReference.cache
