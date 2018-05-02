@@ -1,0 +1,11 @@
+C:\Users\aceti\source\mydev\aspnetcore_test\aspnetcore_test\bin\Debug\netcoreapp2.0\aspnetcore_test.deps.json
+C:\Users\aceti\source\mydev\aspnetcore_test\aspnetcore_test\bin\Debug\netcoreapp2.0\aspnetcore_test.runtimeconfig.json
+C:\Users\aceti\source\mydev\aspnetcore_test\aspnetcore_test\bin\Debug\netcoreapp2.0\aspnetcore_test.runtimeconfig.dev.json
+C:\Users\aceti\source\mydev\aspnetcore_test\aspnetcore_test\bin\Debug\netcoreapp2.0\aspnetcore_test.dll
+C:\Users\aceti\source\mydev\aspnetcore_test\aspnetcore_test\obj\Debug\netcoreapp2.0\aspnetcore_test.csprojResolveAssemblyReference.cache
+C:\Users\aceti\source\mydev\aspnetcore_test\aspnetcore_test\obj\Debug\netcoreapp2.0\aspnetcore_test.csproj.CoreCompileInputs.cache
+C:\Users\aceti\source\mydev\aspnetcore_test\aspnetcore_test\obj\Debug\netcoreapp2.0\aspnetcore_test.AssemblyInfoInputs.cache
+C:\Users\aceti\source\mydev\aspnetcore_test\aspnetcore_test\obj\Debug\netcoreapp2.0\aspnetcore_test.AssemblyInfo.cs
+C:\Users\aceti\source\mydev\aspnetcore_test\aspnetcore_test\bin\Debug\netcoreapp2.0\aspnetcore_test.pdb
+C:\Users\aceti\source\mydev\aspnetcore_test\aspnetcore_test\obj\Debug\netcoreapp2.0\aspnetcore_test.dll
+C:\Users\aceti\source\mydev\aspnetcore_test\aspnetcore_test\obj\Debug\netcoreapp2.0\aspnetcore_test.pdb
